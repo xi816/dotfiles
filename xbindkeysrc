@@ -1,0 +1,27 @@
+"amixer set Master 5%+ unmute"
+   XF86AudioRaiseVolume
+
+"amixer set Master 5%- unmute"
+   XF86AudioLowerVolume
+
+"pactl set-sink-mute @DEFAULT_SINK@ toggle"
+   XF86AudioMute
+
+"pactl set-source-mute @DEFAULT_SOURCE@ toggle"
+   XF86AudioMicMute
+
+"dmenu_run -nb "#303030" -nf "#AAAAAA" -sb "#008080" -sf "#FFFFFF" -fn "JetBrains Mono Nerd Font:size=10" -W 400 -l 25"
+  Mod4 + p
+
+"flameshot gui"
+  Mod4 + s
+
+"boomer"
+  Mod4 + q
+
+"xkill"
+  Mod4 + Shift + c
+
+"xterm"
+  Mod4 + Shift + Return
+

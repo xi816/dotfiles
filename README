@@ -1,0 +1,10 @@
+My config
+
+Dependencies:
+  xorg-tools (setxkbmap, xsetroot, xrdb, xset)
+  flameshot
+  nm-applet
+  polybar
+  dunst
+  xiwm
+

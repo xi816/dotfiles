@@ -1,0 +1,6 @@
+read -ep "Enter home directory to install: " HOMEDIR
+
+cp xinitrc $HOMEDIR/.xinitrc
+cp Xresources $HOMEDIR/.Xresources
+cp xbindkeysrc $HOMEDIR/.xbindkeysrc
+
