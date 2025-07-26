@@ -20,7 +20,7 @@
   Mod4 + q
 
 "xkill"
-  Mod4 + Shift + c
+  Mod4 + Shift + q
 
 "xterm"
   Mod4 + Shift + Return
